@@ -36,3 +36,13 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/discord.xml
+/.idea/encodings.xml
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/.idea/misc.xml
+/mvnw
+/mvnw.cmd
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
