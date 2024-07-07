@@ -1,0 +1,7 @@
+package de.godly.iasimplifier.model.settings;
+
+public enum ItemFlag {
+
+    HIDE_ADDITIONAL_TOOLTIP, HIDE_ARMOR_TRIM, HIDE_ATTRIBUTES, HIDE_DESTROYS, HIDE_DYE, HIDE_ENCHANTS, HIDE_PLACED_ON, HIDE_UNBREAKABLE
+
+}
